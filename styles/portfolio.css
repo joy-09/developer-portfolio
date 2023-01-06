@@ -40,6 +40,15 @@ nav li{
     border-radius: 5px;
     background: #FD6E0A;
 }
+.new-button{
+    width: 160px;
+    height: 64px;
+    color: #FD6E0A;
+    font-size: 20px;
+    font-weight: 700;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+}
 /* Banner style */
 .banner{
     margin: 0 200px;
